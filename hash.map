@@ -1,0 +1,12 @@
+arr = %[apple pear face champagne palm tree aardvark]
+new_arr = []
+
+def find_a 
+    arr.each do |word|
+    if word.include?("a")
+        new_arr << word 
+    end
+    new_arr    
+end 
+
+puts new_arr
